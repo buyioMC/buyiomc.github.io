@@ -1,0 +1,9 @@
+vless://5919a931-2152-47eb-b646-de3d50c1b762@icook.hk:443?security=tls&sni=cm.testb.us.kg&fp=random&type=ws&path=/?ed%3D2560&host=cm.testb.us.kg&encryption=none#%E6%96%B0%E5%8A%A0%E5%9D%A1(%E8%BE%83%E7%A8%B3%E5%AE%9A%EF%BC%8C%E6%8E%A8%E8%8D%90%E7%9C%8B%E6%B2%B9%E7%AE%A1%EF%BC%8C%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AEcf%E4%BB%A3%E7%90%86%E7%BD%91%E7%AB%99)
+vless://ad005bc0-a53f-4d3e-9715-ae6eb654c169@icook.hk:2082?security=none&sni=111.hdswqa81.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=111.hdswqa81.workers.dev&encryption=none#%E6%96%B0%E5%8A%A0%E5%9D%A1
+vless://0745475e-09e5-4f77-800c-5e51d88df517@icook.hk:80?security=none&sni=112.hdswqa81.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=112.hdswqa81.workers.dev&encryption=none#%E9%A6%99%E6%B8%AF
+vless://4d60b0f2-4b30-40be-b33b-87f7dd14cdae@icook.hk:8080?security=none&sni=113.hdswqa81.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=113.hdswqa81.workers.dev&encryption=none#%E7%BE%8E%E5%9B%BD
+vless://ad005bc0-a53f-4d3e-9715-ae6eb654c169@icook.hk:443?security=tls&sni=111.testb.us.kg&fp=randomized&type=ws&path=/?ed%3D2048&host=111.testb.us.kg&encryption=none#%E6%96%B0%E5%8A%A0%E5%9D%A1+tls
+vless://096ca14b-b234-4e56-bbca-d01c693429c6@icook.hk:2082?security=none&fp=randomized&type=ws&path=/?ed%3D2048&host=115.hdswqa81.workers.dev&encryption=none#%E6%97%A5%E6%9C%AC
+vless://4d60b0f2-4b30-40be-b33b-87f7dd14cdae@icook.hk:443?security=tls&sni=113.testb.us.kg&fp=randomized&type=ws&path=/?ed%3D2048&host=113.testb.us.kg&encryption=none#%E7%BE%8E%E5%9B%BD+tls
+vless://0745475e-09e5-4f77-800c-5e51d88df517@icook.hk:443?security=tls&sni=112.testb.us.kg&fp=randomized&type=ws&path=/?ed%3D2048&host=112.testb.us.kg&encryption=none#%E9%A6%99%E6%B8%AF+tls
+vless://096ca14b-b234-4e56-bbca-d01c693429c6@icook.hk:443?security=tls&sni=115.hdswqa81.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=115.hdswqa81.workers.dev&encryption=none#%E6%97%A5%E6%9C%AC+tls
